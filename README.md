@@ -112,7 +112,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы
-2026-01-08_18-14-15.png
+https://github.com/amaliaberdukova11-09/Lab--1/blob/224afb767841a0f81ed485aac344dfb24feef429/2026-01-08_18-14-15.png
 ---
 
 ## Задача 3 - динамический 2D массив
