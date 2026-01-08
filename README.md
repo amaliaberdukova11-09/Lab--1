@@ -204,7 +204,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы
-
+https://github.com/amaliaberdukova11-09/Lab--1/blob/9799b5471ae7b4e90758230d4ffc40f620403da4/pflfx3.png
 ---
 
 ## Задача 4 - поменять местами два числа через указатели
