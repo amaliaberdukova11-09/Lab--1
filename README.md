@@ -256,7 +256,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы
- 
+https://github.com/amaliaberdukova11-09/Lab--1/blob/0ad4248e39071d405564207dc3339cdfbca398e8/задач4.png
 ---
 
 ## Задача 5 - поиск максимального элемента массива с помощью указателей
@@ -318,7 +318,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы
-
+https://github.com/amaliaberdukova11-09/Lab--1/blob/0ad4248e39071d405564207dc3339cdfbca398e8/задач5.png
 ---
 
 ## Задача 6 – реверс массива через указатели  
@@ -390,7 +390,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы
- 
+ https://github.com/amaliaberdukova11-09/Lab--1/blob/0ad4248e39071d405564207dc3339cdfbca398e8/задач6.png
 --- 
 
 ## Задача 7 – поиск подстроки в строке через указатели  
@@ -468,7 +468,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы
-
+https://github.com/amaliaberdukova11-09/Lab--1/blob/0ad4248e39071d405564207dc3339cdfbca398e8/pflfx7.png
 ---
 ### Задача 8 – копирование строки через указатели  
 
@@ -525,7 +525,7 @@ int main(void) {
 ``` 
 
 ### Результаты работы программы
- 
+ https://github.com/amaliaberdukova11-09/Lab--1/blob/0ad4248e39071d405564207dc3339cdfbca398e8/pflfx8.png
 ---
 ### Задача 9 – подсчёт числа пробелов в строке  
 
@@ -584,7 +584,7 @@ int main(void) {
 ```
 
 ### Результаты работы программы
-
+https://github.com/amaliaberdukova11-09/Lab--1/blob/0ad4248e39071d405564207dc3339cdfbca398e8/pflfxf9.png
 ---
 ### Задача 10 – указатель на функцию: сортировка массива  
 
@@ -672,7 +672,7 @@ int main(void) {
 }
 ```
 ### Результаты работы программы 
-
+https://github.com/amaliaberdukova11-09/Lab--1/blob/0ad4248e39071d405564207dc3339cdfbca398e8/pflfx10.png
 ---
 ### Информация о студенте  
 Бердукова Амалия, 1 курс, группа `1об_ПОО/25`
